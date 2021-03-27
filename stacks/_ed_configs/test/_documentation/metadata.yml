@@ -1,0 +1,13 @@
+desc: Preforms continuous integration with AWS/ec2. 
+release: 0.0.1
+categories: 
+   - ci
+   - continuous_delivery
+   - dev
+tags:
+   - ci
+   - continuous_delivery
+   - dev
+   - ed_saas
+   - ed
+   - featured
